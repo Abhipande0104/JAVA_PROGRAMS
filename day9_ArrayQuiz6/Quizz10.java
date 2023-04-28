@@ -8,3 +8,5 @@ public class Quizz10
 		int[] arr1[], arr2;
 	}
 }
+
+//no error, no output
