@@ -11,4 +11,4 @@ public class Quiz2
 }
 
 //o/p= core
-//for change need to reassign as str=str.concat("web")
+//for change we need to reassign as str=str.concat("web")
