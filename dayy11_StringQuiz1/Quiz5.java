@@ -25,4 +25,4 @@ public class Quiz5
 //o/p= True2 True3
 //true2= content equal
 //true3= identical hashcode being same content
-
+//hashCode is different than identityHashCode.
