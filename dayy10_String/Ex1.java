@@ -6,8 +6,8 @@ public class Ex1
 	{
 		//Ways of declaring a String
 		
-		String str1 = "Core2Web";					//literal
-		String str2 = new String("Core2Web");		//new object
+		String str1 = "Core2Web";				//literal
+		String str2 = new String("Core2Web");			//new object
 		char[] str3 = {'C','2','W'};				//character array								
 		
 		System.out.println(str1);
