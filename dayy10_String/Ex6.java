@@ -10,7 +10,7 @@ public class Ex6
 		System.out.println(str1);		//shashi
 		System.out.println(str2);		//bagal
 		
-		str1.concat(str2);			//Heap
+		str1.concat(str2);		//Heap
 		
 		System.out.println(str1);		//shashi
 		System.out.println(str2);		//bagal
