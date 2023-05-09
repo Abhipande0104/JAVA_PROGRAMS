@@ -14,3 +14,4 @@ public class Quiz3
 //string literal goes to SCP(String constant pool)
 //and string created by new creates new object on heap.
 //Hence both will have DIFFERENT ADDRESSES
+//And as addresses are checked the output will be false
