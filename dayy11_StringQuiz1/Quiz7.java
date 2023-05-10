@@ -12,3 +12,4 @@ public class Quiz7
 
 //o/p= true
 //being same string literal, same address will be assigned 
+//when string is declared without new, it gets stored in SCP, hence they have same addresses
