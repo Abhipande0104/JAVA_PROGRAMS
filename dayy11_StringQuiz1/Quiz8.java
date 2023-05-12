@@ -12,4 +12,5 @@ public class Quiz8
 }
 
 //o/p =12
+//concat() function is of String class
 
