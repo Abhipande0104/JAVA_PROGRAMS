@@ -11,5 +11,5 @@ public class Quizz10
 	}
 }
 
-//o/p= false
+//o/p=false
 //object created by new have different addresses and are created seperately on the heap section
