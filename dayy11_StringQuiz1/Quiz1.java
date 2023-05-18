@@ -10,6 +10,6 @@ public class Quiz1
 	}
 }
 
-//compile time error.
+//compile toime error as undefined
 //The constructor String(int[]) is undefined
 //String does not have a constructor having integer array as parameter.
