@@ -12,4 +12,4 @@ public class Quizz10
 }
 
 //o/p=false
-//object created by new have different addresses
+//object created by new have different addresses on heap 
