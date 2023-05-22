@@ -13,4 +13,5 @@ public class Quiz8
 
 //o/p =12
 //concat() function is of String class
+//and append is of StringBuffer class
 
