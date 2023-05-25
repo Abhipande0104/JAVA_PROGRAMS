@@ -18,4 +18,4 @@ public class Quiz4
 }
 
 //o/p= equal
-//both strings have same identityHashcode since marked to same object on SCP as they are not created by new
+//both strings have same identityHashcode since marked to same object on SCP.
