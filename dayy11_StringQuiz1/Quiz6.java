@@ -19,4 +19,4 @@ public class Quiz6
 }
 
 //o/p= not equal
-//operations on string creates new object on the heap
+//operations on string creates new object on the heap as it is immutable
