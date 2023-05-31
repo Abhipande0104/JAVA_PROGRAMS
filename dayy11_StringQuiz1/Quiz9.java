@@ -13,4 +13,4 @@ public class Quiz9
 
 //o/p= sun1995
 //all characters will appear in the form of String
-//string can be created by passing character array as well
+//string can be created by passing character array
